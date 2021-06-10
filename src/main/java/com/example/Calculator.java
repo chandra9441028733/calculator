@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-ublic class Calculator extends HttpServlet {
+public class Calculator extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
 
