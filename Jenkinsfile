@@ -13,11 +13,6 @@ pipeline {
       }
     }
     
-    stage('DemoStage') {
-      steps{
-        sh 'echo  hello'
-      }
-    }
 
      stage('Package') {
       steps{
